@@ -132,4 +132,4 @@ This module asks the user to enter the obtained value and the total value which 
 
 
 ## How to run the code?
-To run the code sEMU 8086 software and a basic knowledge about Assembly language is required.
+To run the code EMU 8086 software and a basic knowledge about Assembly language is required.
